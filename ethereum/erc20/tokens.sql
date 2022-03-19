@@ -6057,6 +6057,7 @@ COPY erc20.tokens (contract_address, symbol, decimals) FROM stdin;
 \\x194ebd173f6cdace046c53eacce9b953f28411d1	eursCRV	18
 \\x06325440d014e39736583c165c2963ba99faf14e	steCRV	18
 \\x02d341ccb60faaf662bc0554d13778015d1b285c	saCRV	18
+\\x9ca85572e6a3ebf24dedd195623f188735a5179f	y3CRV	18
 
 \.
 
